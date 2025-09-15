@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/display.tsx","./src/exporters.test.ts","./src/exporters.ts","./src/follower.test.ts","./src/follower.ts","./src/library.ts","./src/lyrics.ts","./src/main.tsx","./src/recognizer.ts","./src/simulate.ts","./src/songs.ts"],"version":"5.6.3"}
